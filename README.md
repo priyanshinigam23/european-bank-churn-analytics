@@ -1,5 +1,16 @@
 # European Bank Customer Churn Analytics
+## 🚀 Live Dashboard
 
+Explore the interactive dashboard here:
+
+**[Open European Bank Churn Analytics Dashboard](https://european-bank-churn-analytics-atftce4jcc8ipfxpfuxwvr.streamlit.app/)**
+
+## 📊 Project Highlights
+
+- Analysed 10,000 customer records.
+- Calculated an overall churn rate of 20.37%.
+- Compared churn patterns across geography, age, gender, account activity, credit score, tenure, balance, and product ownership.
+- Built an interactive dashboard using Python, Pandas, Matplotlib, and Streamlit.
 ## Internship Project
 
 An interactive data analytics dashboard designed to explore customer churn patterns and customer segments in a European banking dataset.
